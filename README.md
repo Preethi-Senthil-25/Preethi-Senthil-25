@@ -1,5 +1,8 @@
 <h1 align="center">Hi there, I'm Preethi Senthil Nathan 👋</h1>
-<h3 align="center">Aspiring Data Analyst | Turning raw data into clear insights</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Turning+raw+data+into+clear+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/preethi-senthil-nathan" target="_blank">
@@ -14,6 +17,10 @@
   <a href="mailto:preethisenthilnathan25@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Preethi-Senthil-25&style=for-the-badge&color=2E9EF7" alt="Profile views" />
 </p>
 
 ---
@@ -42,9 +49,25 @@
 
 ---
 
+### 📚 Currently Learning
+
+- 🔎 Advanced SQL queries & data cleaning techniques
+- 📈 Building interactive dashboards in Power BI & Tableau
+- 🐍 Exploratory Data Analysis (EDA) with Python
+
+---
+
+### 🏆 Certifications
+
+- 🎓 **Tata Data Analytics** — Job Simulation
+- 🎓 **Yuva Intern** — Data Analytics Certificate
+
+---
+
 ### 📌 Featured Projects
 
-Take a look at my pinned repositories below ,SQL-based analytics project using MySQL,Python,PowerBI and web development projects
+Take a look at my pinned repositories below 👇 — including **Retail-Sales**, a SQL-based retail analytics project using MySQL with joins, aggregate functions, and grouped queries.
+
 ---
 
 ### 📊 GitHub Stats

@@ -19,9 +19,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Preethi-Senthil-25&style=for-the-badge&color=2E9EF7" alt="Profile views" />
-</p>
 
 ---
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Preethi Senthil Nathan 👋</h1>
+<h1 align="center">Hi there, I'm Preethi S 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Turning+raw+data+into+clear+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
@@ -49,21 +49,6 @@
 
 ---
 
-### 📚 Currently Learning
-
-- 🔎 Advanced SQL queries & data cleaning techniques
-- 📈 Building interactive dashboards in Power BI & Tableau
-- 🐍 Exploratory Data Analysis (EDA) with Python
-
----
-
-### 🏆 Certifications
-
-- 🎓 **Tata Data Analytics** — Job Simulation
-- 🎓 **Yuva Intern** — Data Analytics Certificate
-
----
-
 ### 📌 Featured Projects
 
 Take a look at my pinned repositories below 👇 — including **Retail-Sales**, a SQL-based retail analytics project using MySQL with joins, aggregate functions, and grouped queries.
@@ -83,4 +68,4 @@ Take a look at my pinned repositories below 👇 — including **Retail-Sales**,
 
 ---
 
-<p align="center"><i>Thanks for stopping by — let's connect!</i></p>
+<p align="center"><i>Thanks for stopping by,let's connect!</i></p>

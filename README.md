@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Preethi S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Turning+raw+data+into+clear+insights;SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Aspiring+Data+Analyst;Turning+raw+data+into+clear+insights;Transitioning+into+Data+Engineer.SQL+%7C+Python+%7C+Power+BI+%7C+Tableau" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,10 +24,11 @@
 
 ### 👩‍💻 About Me
 
-- 🔍 I'm passionate about **data analysis** and turning numbers into stories
-- 📊 I work with **SQL, Python, Excel, Power BI, and Tableau** to explore and visualize data
-- 🌱 Currently sharpening my skills in data cleaning, EDA, and dashboarding
-- 💼 Check out my [Portfolio](https://preethi-senthil-25.github.io/Portfolio/) and [Resume](https://drive.google.com/file/d/11-XdLM_xqyQpWcA1di_V6P6t8IDpRAFz/view?usp=drive_link) for a closer look at my work
+- I'm passionate about **data analysis** and turning numbers into stories
+- I work with **SQL, Python, Excel, Power BI, and Tableau** to explore and visualize data
+- Currently sharpening my skills in data cleaning, EDA, and dashboarding
+- Tranisitioning into Data Engineer
+- Check out my [Portfolio](https://preethi-senthil-25.github.io/Portfolio/) and [Resume](https://drive.google.com/file/d/11-XdLM_xqyQpWcA1di_V6P6t8IDpRAFz/view?usp=drive_link) for a closer look at my work
 - 📫 Reach me at **preethisenthilnathan25@gmail.com**
 
 ---

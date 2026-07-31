@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Preethi S 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Engineer;Building+ETL+Pipelines+%26+BI+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+BigQuery;Turning+raw+data+into+clear+decisions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Data+Engineer;Turning+raw+data+into+clear+decisions";Building+ETL+Pipelines+%26+BI+Dashboards;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau+%7C+BigQuery; alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -120,16 +120,6 @@
 | Web Development Intern | CodSoft | 1 Month |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preethi-Senthil-25&show_icons=true&theme=radical&hide_border=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preethi-Senthil-25&theme=radical&hide_border=true" height="165"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preethi-Senthil-25&layout=compact&theme=radical&hide_border=true" height="165"/>
-</p>
 
 ---
 
